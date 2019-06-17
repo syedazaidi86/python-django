@@ -1,0 +1,12 @@
+BaseDatabaseIntrospection
+FieldInfo
+namedtuple
+FlexibleFieldLookupDict
+BaseFieldInfo
+get_field_size
+Index
+sqlparse
+TableInfo
+DatabaseIntrospection
+re
+field_size_re

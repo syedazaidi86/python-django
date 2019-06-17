@@ -1,0 +1,12 @@
+AddField
+cached_property
+RenameField
+is_referenced_by_foreign_key
+RemoveField
+AlterField
+FieldOperation
+Operation
+field_references_model
+FieldDoesNotExist
+ModelTuple
+NOT_PROVIDED
